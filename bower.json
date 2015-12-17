@@ -1,0 +1,21 @@
+{
+  "name": "react-chat",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Jakub Kubacki <kubacki.jk@gmail.com>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "firebase": "~2.3.2"
+  }
+}
